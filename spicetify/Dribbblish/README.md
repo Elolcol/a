@@ -1,26 +1,12 @@
 # Dribbblish
 
 ## Screenshots
-#### Base
-![demo1](./base.png)
-
-#### White
-![demo2](./white.png)
-
-#### Dark
-![demo3](./dark.png)
 
 #### Dracula
 ![demo4](./dracula.png)
 
 #### Nord-Dark
 ![demo5](./nord-dark.png)
-
-#### Nord-Light
-![demo6](./nord-light.png)
-
-#### Samouraï
-![demoSamourai](./samourai.png)
 
 ## More
 ### How to install
