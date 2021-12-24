@@ -1816,10 +1816,7 @@ interval = 1
 ; NOTE: if you want to use syntax tags here you need to use %%{...}
 #date-alt = " %Y-%m-%d%"
 
-#time = %k : %M
-#date = %B %e
-
-date = " %B %M %Y"
+date = %B %d %Y
 time = %H:%M |
 time-alt = %H:%M
 #format-prefix = " "
@@ -1829,7 +1826,7 @@ format-foreground = ${colors.foreground}
 format-background = ${colors.background}
 format-padding = 0
 
-label = %time% %date% 
+label = %time% %date%
 
 #################################################################
 
