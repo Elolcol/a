@@ -84,7 +84,7 @@ super + r
 
 #alacritty
 super + t
-    alacritty
+    urxvt
 
 #Pavucontrol
 super + v
@@ -96,7 +96,7 @@ super + m
 
 #alacritty
 super + Return
-    alacritty
+    urxvt
 
 #Xkill
 super + Escape
@@ -105,7 +105,7 @@ super + Escape
 #Keyboard dependent
 #urxvt
 super + KP_Enter
-	alacritty
+	urxvt
 
 #################################################################
 # SUPER + SHIFT KEYS
@@ -505,7 +505,7 @@ super + ctrl + {Left,Down,Up,Right}
 	bspc node --{focus} {west,south,north,east}
 
 # Contract tiled space
-super + alt + {h,j,k,l}
+super + alt + {Left,Down,Up,Right}
 	bspc node {@east -r -10,@north -r +10,@south -r -10,@west -r +10}
 
 # Focus parent/brother/first/second for preselection

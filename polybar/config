@@ -2030,7 +2030,7 @@ interval = 1
 ;   %mb_total%
 label = " %percentage_used%%"
 
-format = Mem <label> |
+format = MEM <label> |
 #format-prefix = "  "
 #format-prefix-foreground = #3384d0
 format-underline = #3384d0
