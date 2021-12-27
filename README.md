@@ -1,6 +1,6 @@
 # a
 
-*** Install Zscroll
+5. Install Polybar:
 #+begin_src sh
 $ git clone https://github.com/noctuid/zscroll
 $ cd zscroll
