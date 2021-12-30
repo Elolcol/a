@@ -24,9 +24,9 @@
 .Root__main-view {
   z-index: 0;
   background-color: var(--main); /*var(--spice-main)*/
-  height: 90%;
+  height: 100%;
   margin-top: 60px;
-  /*padding-bottom: 20px;*/
+  padding-bottom: 20px;
   border-radius: var(--border-radius-1);
 }
 
@@ -41,7 +41,7 @@
 
 .os-theme-spotify>.os-scrollbar-vertical {
   margin: 3px 3px;
-  /*margin-bottom: 45px;*/
+  margin-bottom: 45px;
 }
 
 .os-scrollbar-horizontal {
