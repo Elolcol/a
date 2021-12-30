@@ -5,12 +5,6 @@
     cd zscroll
     sudo python3 setup.py install
     
-### Launch Spotify using spicetify:
-    spicetify
-    spicetify backup apply enable-devtool
-    spicetify update
-
-    
 ### Spicetify:
 
 Install spicetify:
