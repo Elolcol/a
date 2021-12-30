@@ -26,7 +26,7 @@
   background-color: var(--main); /*var(--spice-main)*/
   height: 100%;
   margin-top: 60px;
-  padding-bottom: 20px;
+  padding-bottom: 60px;
   border-radius: var(--border-radius-1);
 }
 
@@ -41,7 +41,7 @@
 
 .os-theme-spotify>.os-scrollbar-vertical {
   margin: 3px 3px;
-  margin-bottom: 45px;
+  margin-bottom: 3px;
 }
 
 .os-scrollbar-horizontal {
@@ -520,7 +520,7 @@ button.switch {
   z-index: 0 !important;
   max-width: 85px !important;
   height: calc(100% + 107px);
-  padding-bottom: 127px;
+  padding-bottom: 0px;
 }
 
 .main-navBar-navBar {
