@@ -12,6 +12,8 @@ Install spicetify:
     curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
     sudo chmod a+wr /usr/share/spotify
     sudo chmod a+wr /usr/share/spotify/Apps -R
+    sudo who
+    sudo pkill -KILL -u (user)
 
 Launch Spotify using spicetify:
 
