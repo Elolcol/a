@@ -21,7 +21,7 @@ Launch Spotify using spicetify:
 
 Theming:
 
-    cd spicetify-themes
+    cd spicetify
     cp -r * ~/spicetify-cli/Themes
     cd ~/spicetify-cli/Themes/Fluent/
     cp fluent.js ../../Extensions
