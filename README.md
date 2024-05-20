@@ -1,5 +1,3 @@
-# my dots
-
 # Used Stuff
 - [Polybar](https://github.com/polybar/polybar) = A fast and easy to use statusbar. 
 - [neovim](https://www.neovim.io) = A useful text editor that i mostly prefer. 
