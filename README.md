@@ -1,6 +1,7 @@
 # Used Stuff
 - [alacritty](https://github.com/alacritty/alacritty) = Alacritty Terminal Emulator.
 - [bspwm](https://github.com/baskerville/bspwm) = A tiling window manager based on binary space partitioning.
+- [sxhkd](https://github.com/baskerville/sxhkd) = Simple X hotkey daemon.
 - [Polybar](https://github.com/polybar/polybar) = A fast and easy to use statusbar.
 - [neovim](https://www.neovim.io) = A useful text editor.
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) = System Fetching tool.
