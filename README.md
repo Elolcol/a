@@ -1,4 +1,4 @@
-# a
+# my dots
 
 # Used Stuff
 - [Polybar](https://github.com/polybar/polybar) = A fast and easy to use statusbar. 
