@@ -2,16 +2,12 @@
 
 # Used Stuff
 - [Polybar](https://github.com/polybar/polybar) = A fast and easy to use statusbar. 
-- [vim](https://www.vim.org/) = A useful text editor that i mostly prefer. 
+- [neovim](https://www.neovim.io) = A useful text editor that i mostly prefer. 
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) = Custom made system-info fetch tool. 
-- [polywins](https://github.com/tam-carre/polywins) = A script for window management.
-- [neofetch](https://github.com/dylanaraps/neofetch) = System Fetching tool. 
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) = System Fetching tool. 
 - [dunst](https://github.com/dunst-project/dunst) = A highly configurable and lightweight notification daemon.
-- [zathura](https://github.com/pwmt/zathura) = A Document Viewer.
 - [rofi](https://github.com/davatorium/rofi) = A window switcher, Application launcher and dmenu replacement
-- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) = NCurses Music Player Client (Plus Plus)
 - [alacritty](https://github.com/alacritty/alacritty) = Alacritty Terminal Emulator 
-- [cava](https://github.com/karlstav/cava) = Console Based Audio Visualizor 
 
 ### Install Zscroll:
     git clone https://github.com/noctuid/zscroll
