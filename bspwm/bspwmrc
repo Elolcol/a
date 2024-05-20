@@ -1,8 +1,5 @@
 #!/bin/sh
 
-#LAUNCHERS
-$HOME/.config/bspwm/autostart.sh
-
 #BSPWM configuration
 bspc config border_radius        15
 bspc config border_width         1
